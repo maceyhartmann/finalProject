@@ -1,0 +1,62 @@
+html{
+  background-color:  #c9e8ff
+}
+
+#centerText{
+  text-align: center;
+    color : #d19abf;
+}
+#me{
+    text-align: center;
+    color: #eda600
+}
+#title{
+  color:   #ffe68e 
+}
+
+#container{
+  margin-left: 32px;
+  display: flex;
+  justify-content: space-evenly
+}
+/* */
+#projectText:hover{
+  cursor:  pointer;
+  color: #d19abf 
+}
+
+#techText:hover{
+  cursor:  pointer;
+  color: #d19abf 
+}
+
+#projectList{
+  text-align: center;
+  margin-top: 12px
+}
+
+#techList{
+  text-align: center;
+  margin-top: 12px
+}
+
+.linkText{
+  color: #eda600
+}
+
+#imageContainer{
+    display: flex;
+}
+
+#image{
+  height: 180px;
+  width: 17%;
+    transform: rotate(90deg);
+    margin-top: 32px
+}
+
+#imagespecial{
+  height: 180px;
+  width: 17%;
+margin-top: 32px
+    }
